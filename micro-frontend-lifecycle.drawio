@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-17T08:58:21.263Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="biLtCrd0dUyuEEnG-pxS" version="14.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-18T00:32:38.657Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="DqO30yRXQChRhKr0Szr5" version="14.3.2" type="github">
   <diagram id="ZukU1SbaKjAr5W_pFtFP" name="Page-1">
-    <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="3000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,61 +25,67 @@
         <mxCell id="IQAFBlpfC4yMkr3Lsfib-21" value="index.html&lt;br&gt;(메인-서브 연결)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="340" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fuwau5JHkV_2eJnPcMVu-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="IQAFBlpfC4yMkr3Lsfib-35" target="fuwau5JHkV_2eJnPcMVu-1">
+        <mxCell id="fuwau5JHkV_2eJnPcMVu-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="IQAFBlpfC4yMkr3Lsfib-35" target="fuwau5JHkV_2eJnPcMVu-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fuwau5JHkV_2eJnPcMVu-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IQAFBlpfC4yMkr3Lsfib-35" target="fuwau5JHkV_2eJnPcMVu-2">
+        <mxCell id="fuwau5JHkV_2eJnPcMVu-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IQAFBlpfC4yMkr3Lsfib-35" target="fuwau5JHkV_2eJnPcMVu-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IQAFBlpfC4yMkr3Lsfib-35" value="team-blue/&lt;br&gt;fragment.js" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="200" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fuwau5JHkV_2eJnPcMVu-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IQAFBlpfC4yMkr3Lsfib-36" target="fuwau5JHkV_2eJnPcMVu-6">
+        <mxCell id="fuwau5JHkV_2eJnPcMVu-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="IQAFBlpfC4yMkr3Lsfib-36" target="fuwau5JHkV_2eJnPcMVu-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IQAFBlpfC4yMkr3Lsfib-36" value="team-green/&lt;br&gt;fragment.js" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="600" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fuwau5JHkV_2eJnPcMVu-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fuwau5JHkV_2eJnPcMVu-1" target="fuwau5JHkV_2eJnPcMVu-9">
+        <mxCell id="fuwau5JHkV_2eJnPcMVu-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fuwau5JHkV_2eJnPcMVu-1" target="fuwau5JHkV_2eJnPcMVu-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="140" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fuwau5JHkV_2eJnPcMVu-1" value="custom element&lt;br&gt;BlueBasket 호출" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="fuwau5JHkV_2eJnPcMVu-1" value="custom element&lt;br&gt;BlueBasket 호출" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="80" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fuwau5JHkV_2eJnPcMVu-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fuwau5JHkV_2eJnPcMVu-2" target="fuwau5JHkV_2eJnPcMVu-10">
+        <mxCell id="fuwau5JHkV_2eJnPcMVu-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fuwau5JHkV_2eJnPcMVu-2" target="fuwau5JHkV_2eJnPcMVu-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fuwau5JHkV_2eJnPcMVu-2" value="custom element&lt;br&gt;BlueBuy 호출" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="fuwau5JHkV_2eJnPcMVu-2" value="custom element&lt;br&gt;BlueBuy 호출" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="340" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fuwau5JHkV_2eJnPcMVu-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fuwau5JHkV_2eJnPcMVu-6" target="fuwau5JHkV_2eJnPcMVu-11">
+        <mxCell id="fuwau5JHkV_2eJnPcMVu-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fuwau5JHkV_2eJnPcMVu-6" target="fuwau5JHkV_2eJnPcMVu-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fuwau5JHkV_2eJnPcMVu-6" value="custom element&lt;br&gt;greenRecos 호출" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="fuwau5JHkV_2eJnPcMVu-6" value="custom element&lt;br&gt;greenRecos 호출" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="600" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fuwau5JHkV_2eJnPcMVu-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fuwau5JHkV_2eJnPcMVu-9" target="fuwau5JHkV_2eJnPcMVu-14">
+        <mxCell id="fuwau5JHkV_2eJnPcMVu-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fuwau5JHkV_2eJnPcMVu-9" target="fuwau5JHkV_2eJnPcMVu-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fuwau5JHkV_2eJnPcMVu-9" value="connectedCallback()&lt;br&gt;호출&lt;br&gt;(각 태그가 DOM에 삽입되므로 호출됨)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="fuwau5JHkV_2eJnPcMVu-9" value="connectedCallback()&lt;br&gt;호출&lt;br&gt;(각 태그가 DOM에 삽입되므로 호출됨)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="80" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fuwau5JHkV_2eJnPcMVu-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fuwau5JHkV_2eJnPcMVu-10" target="fuwau5JHkV_2eJnPcMVu-17">
+        <mxCell id="fuwau5JHkV_2eJnPcMVu-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fuwau5JHkV_2eJnPcMVu-10" target="fuwau5JHkV_2eJnPcMVu-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fuwau5JHkV_2eJnPcMVu-10" value="connectedCallback()&lt;br&gt;호출&lt;br&gt;(각 태그가 DOM에 삽입되므로 호출됨)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="fuwau5JHkV_2eJnPcMVu-10" value="connectedCallback()&lt;br&gt;호출&lt;br&gt;(각 태그가 DOM에 삽입되므로 호출됨)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="340" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fuwau5JHkV_2eJnPcMVu-11" value="connectedCallback()&lt;br&gt;호출&lt;br&gt;(각 태그가 DOM에 삽입되므로 호출됨)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="i94N0pavKDX1gP9IEu01-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fuwau5JHkV_2eJnPcMVu-11" target="i94N0pavKDX1gP9IEu01-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fuwau5JHkV_2eJnPcMVu-11" value="connectedCallback()&lt;br&gt;호출&lt;br&gt;(각 태그가 DOM에 삽입되므로 호출됨)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="600" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fuwau5JHkV_2eJnPcMVu-14" value="- this.refresh()의 this를 DOM으로 고정&lt;br&gt;- this.render() 함수 호출되면서 innerHTML 함수 실행 → &lt;span style=&quot;background-color: rgb(255 , 255 , 153)&quot;&gt;custom element 생성&lt;/span&gt;&lt;br&gt;- blue basket이 변경되면 this.refresh() 호출하는 이벤트 생성" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
-          <mxGeometry x="80" y="610" width="120" height="190" as="geometry" />
+        <mxCell id="fuwau5JHkV_2eJnPcMVu-14" value="- this.refresh()의 this를 DOM으로 고정&lt;br&gt;- this.render() 함수 호출되면서 innerHTML 함수 실행 → &lt;span style=&quot;background-color: rgb(255 , 255 , 153)&quot;&gt;custom element 생성&lt;/span&gt;&lt;br&gt;- blue basket이 변경되면 this.refresh() 호출하는 이벤트 생성" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" parent="1" vertex="1">
+          <mxGeometry x="80" y="610" width="120" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="fuwau5JHkV_2eJnPcMVu-17" value="- this.addToCart()의 this를 DOM으로 고정&lt;br&gt;- sku(차량) attribute를 받아옴&lt;br&gt;- this.render() 함수 호출되면서 innerHTML 함수 실행 →&amp;nbsp;&lt;span style=&quot;background-color: rgb(255 , 255 , 153)&quot;&gt;custom element 생성&lt;/span&gt;&lt;br&gt;- 클릭하면 this.addCart() 호출하는 이벤트 생성" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
-          <mxGeometry x="340" y="610" width="120" height="190" as="geometry" />
+        <mxCell id="fuwau5JHkV_2eJnPcMVu-17" value="- this.addToCart()의 this를 DOM으로 고정&lt;br&gt;- sku(차량) attribute를 받아옴&lt;br&gt;- this.render() 함수 호출되면서 sku(차량), price(가격) 받아서 innerHTML 함수 실행 →&amp;nbsp;&lt;span style=&quot;background-color: rgb(255 , 255 , 153)&quot;&gt;custom element 생성&lt;/span&gt;&lt;br&gt;- 클릭하면 this.addCart() 호출하는 이벤트 생성" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" parent="1" vertex="1">
+          <mxGeometry x="340" y="610" width="120" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="i94N0pavKDX1gP9IEu01-1" value="- sku(차량) attribute를 받아옴&lt;br&gt;- this.render() 함수 호출되면서 sku(차량), price(가격) 받아서 innerHTML 함수 실행 →&amp;nbsp;&lt;span style=&quot;background-color: rgb(255 , 255 , 153)&quot;&gt;custom element 생성&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;" vertex="1" parent="1">
+          <mxGeometry x="600" y="610" width="120" height="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
